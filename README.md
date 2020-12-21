@@ -5,7 +5,7 @@
 > This pattern has been upgraded to Fabric V2.0
 
 *Read this in other languages: [한국어](README-ko.md), [日本](README-ja.md).*
-# BlockchainNetwork-CompositeJourney
+# blockchainNetwork-CompositeJourney
 
 ## Build Your First Network (BYFN)
 
